@@ -1,0 +1,2 @@
+# PHPCraft.Http
+Http adapter
